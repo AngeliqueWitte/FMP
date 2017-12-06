@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "times": ["1902", "3294", "5604"] }
+  ],
+
+
+  "comments": [
+    { "id": 1, "chosenTime": "Chosen Time", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
