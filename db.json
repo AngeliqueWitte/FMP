@@ -5,7 +5,7 @@
 
 
   "comments": [
-    { "id": 1, "chosenTime": "Chosen Time", "postId": 1 }
+    { "id": 1, "chosenTime": "1902", "postId": 1 }
   ],
   "profile": { "name": "typicode" }
 }
